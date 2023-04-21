@@ -1,0 +1,84 @@
+h1{
+    color:rgb(89, 89, 150);
+}
+
+body{
+    
+    margin: 0px;
+}
+
+.indexBackground{
+    background-image: url(images/Login.jpg) ;
+}
+
+.index{
+    padding:20% 30%;
+    
+
+}
+
+.login-box{
+    background-color: white;
+    text-align: center;
+    padding:40px 20px;
+    border: #b5ab9e 10px solid;
+}
+
+/* .Categories{
+    border: rgb(66, 46, 46) 3px solid;
+    padding: 20px;
+    margin:30px;
+} */
+
+.title h1{
+    text-align: center;
+    
+}
+
+.breakfastMeals{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 250px;
+}
+
+/* .snacksDesserts{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 250px;
+} */
+
+.dosa{
+    border: red 5px solid;
+    border-radius:50px;
+}
+.breakfast{
+    border: red 5px solid;
+    padding:20px
+}
+.textFont{
+    text-align: center;
+    font-size: 50px;
+}
+
+body ul{
+    list-style: none;
+}
+
+.brkfast1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding: 5px 50px;
+    border: red 5px solid;
+    margin: 50px 220px;
+    
+}    
+
+body h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.brkfast2{
+    display: flex;
+    justify-content: space-between;
+}
